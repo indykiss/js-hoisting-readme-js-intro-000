@@ -9,15 +9,11 @@ function callMe() {
 
 
 function crazy() {
-
   //var thisIsCrazy = 
-  
   function thisIsCrazy(){
     console.log("hey!!!")
   }
-
   thisIsCrazy();
-
 }
 
 function sayMyName() {
