@@ -1,3 +1,6 @@
+// There seems to be a problem with the API or something so will move on for now 
+
+
 function callMe() {
   var lyric = "maybe";
   console.log("I just met you...");
